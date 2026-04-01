@@ -2,7 +2,7 @@
   "scope": "x_custom_bfbf",
   "name": "bfbf",
   "version": "1.0.0",
-  "description": "",
+  "description": "bfbf application",
   "vendor": "admin",
   "vendor_prefix": "x_custom",
   "min_platform_version": "1.0.0",
