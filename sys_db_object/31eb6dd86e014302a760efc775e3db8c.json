@@ -1,0 +1,166 @@
+{
+  "_table": "sys_db_object",
+  "_sys_id": "31eb6dd86e014302a760efc775e3db8c",
+  "_sys_update_name": "sys_db_object_31eb6dd86e014302a760efc775e3db8c",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.061Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.061Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_db_object"
+    },
+    "sys_package": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "x_custom_bfbf_dhoom33"
+    },
+    "name": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33"
+    },
+    "label": {
+      "value": "Dhoom33"
+    },
+    "plural": {
+      "value": null
+    },
+    "super_class": {
+      "value": ""
+    },
+    "is_extendable": {
+      "value": "true"
+    },
+    "extension_model": {
+      "value": ""
+    },
+    "number_ref": {
+      "value": null
+    },
+    "create_module": {
+      "value": "true"
+    },
+    "add_module_to_menu": {
+      "value": ""
+    },
+    "access": {
+      "value": "public"
+    },
+    "actions_access": {
+      "value": "false"
+    },
+    "alter_access": {
+      "value": "false"
+    },
+    "caller_access": {
+      "value": null
+    },
+    "client_scripts_access": {
+      "value": "false"
+    },
+    "configuration_access": {
+      "value": "false"
+    },
+    "create_access": {
+      "value": "false"
+    },
+    "create_access_controls": {
+      "value": "false"
+    },
+    "delete_access": {
+      "value": "false"
+    },
+    "read_access": {
+      "value": "true"
+    },
+    "scriptable_table": {
+      "value": "false"
+    },
+    "update_access": {
+      "value": "false"
+    },
+    "ws_access": {
+      "value": "true"
+    },
+    "is_df_table": {
+      "value": "false"
+    },
+    "filter_extension": {
+      "value": null
+    },
+    "sys_class_code": {
+      "value": null
+    },
+    "sys_class_path": {
+      "value": null
+    },
+    "live_feed_enabled": {
+      "value": "false"
+    },
+    "text_index": {
+      "value": "false"
+    },
+    "display": {
+      "value": null
+    },
+    "user_role": {
+      "value": ""
+    },
+    "icon": {
+      "value": null
+    },
+    "color": {
+      "value": null
+    },
+    "attributes": {
+      "value": null
+    },
+    "conditions": {
+      "value": null
+    },
+    "provider_class": {
+      "value": null
+    },
+    "federation_support": {
+      "value": "false"
+    },
+    "sys_auto_populate": {
+      "value": "true"
+    },
+    "name_field": {
+      "value": null
+    },
+    "label_field": {
+      "value": null
+    },
+    "database_type": {
+      "value": "mysql"
+    },
+    "storage_options": {
+      "value": null
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_table": "sys_security_acl_role",
+  "_sys_id": "c7e57f8f20c14396aa09806191b160cf",
+  "_sys_update_name": "sys_security_acl_role_c7e57f8f20c14396aa09806191b160cf",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.320Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.320Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_security_acl_role"
+    },
+    "sys_package": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "sys_security_acl_role_c7e57f8f20c14396aa09806191b160cf"
+    },
+    "sys_security_acl": {
+      "value": "a36c1d5da48a4400b879dcdab8a8d528"
+    },
+    "sys_user_role": {
+      "value": "3f8b7b6ff1be4cbc934ac836a7cf92e8"
+    },
+    "transaction_id": {
+      "value": null
+    },
+    "active": {
+      "value": "true"
+    }
+  }
+}

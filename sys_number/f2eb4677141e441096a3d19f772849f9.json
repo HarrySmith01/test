@@ -1,0 +1,61 @@
+{
+  "_table": "sys_number",
+  "_sys_id": "f2eb4677141e441096a3d19f772849f9",
+  "_sys_update_name": "sys_number_f2eb4677141e441096a3d19f772849f9",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.174Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.174Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "category": {
+      "value": "x_custom_bfbf_dhoom33"
+    },
+    "number": {
+      "value": "0"
+    },
+    "prefix": {
+      "value": "XCUSTOM"
+    },
+    "suffix": {
+      "value": null
+    },
+    "maximum_digits": {
+      "value": "7"
+    },
+    "active": {
+      "value": "true"
+    },
+    "sys_class_name": {
+      "value": "sys_number"
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_package": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": null
+    },
+    "sys_customer_update": {
+      "value": null
+    },
+    "sys_name": {
+      "value": "sys_number_f2eb4677141e441096a3d19f772849f9"
+    }
+  }
+}

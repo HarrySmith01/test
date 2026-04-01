@@ -1,0 +1,79 @@
+{
+  "_table": "sys_user_role",
+  "_sys_id": "3f8b7b6ff1be4cbc934ac836a7cf92e8",
+  "_sys_update_name": "sys_user_role_3f8b7b6ff1be4cbc934ac836a7cf92e8",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.194Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.194Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_user_role"
+    },
+    "sys_package": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "Dhoom33"
+    },
+    "name": {
+      "value": "Dhoom33"
+    },
+    "description": {
+      "value": "Role for Dhoom33"
+    },
+    "includes_roles": {
+      "value": null
+    },
+    "elevated_privilege": {
+      "value": "false"
+    },
+    "admin_overrides": {
+      "value": "true"
+    },
+    "assignable_by": {
+      "value": null
+    },
+    "can_delegate": {
+      "value": "false"
+    },
+    "requires_subscription": {
+      "value": "false"
+    },
+    "suffix": {
+      "value": null
+    },
+    "scoped_admin": {
+      "value": "false"
+    },
+    "active": {
+      "value": "true"
+    },
+    "grantable": {
+      "value": "true"
+    }
+  }
+}

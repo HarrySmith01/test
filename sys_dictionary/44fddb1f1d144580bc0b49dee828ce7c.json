@@ -1,0 +1,217 @@
+{
+  "_table": "sys_dictionary",
+  "_sys_id": "44fddb1f1d144580bc0b49dee828ce7c",
+  "_sys_update_name": "sys_dictionary_44fddb1f1d144580bc0b49dee828ce7c",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.284Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.284Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_dictionary"
+    },
+    "sys_package": {
+      "value": null
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33"
+    },
+    "name": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33"
+    },
+    "element": {
+      "value": "sys_mod_count"
+    },
+    "internal_type": {
+      "value": "integer"
+    },
+    "column_label": {
+      "value": "Updates"
+    },
+    "active": {
+      "value": "true"
+    },
+    "array": {
+      "value": "false"
+    },
+    "array_denormalized": {
+      "value": "false"
+    },
+    "attributes": {
+      "value": null
+    },
+    "mandatory": {
+      "value": "false"
+    },
+    "max_length": {
+      "value": "40"
+    },
+    "virtual": {
+      "value": "false"
+    },
+    "reference": {
+      "value": null
+    },
+    "reference_qual": {
+      "value": null
+    },
+    "reference_qual_condition": {
+      "value": null
+    },
+    "reference_cascade_rule": {
+      "value": "none"
+    },
+    "reference_floats": {
+      "value": "false"
+    },
+    "reference_key": {
+      "value": "sys_id"
+    },
+    "reference_type": {
+      "value": "simple"
+    },
+    "use_reference_qualifier": {
+      "value": "simple"
+    },
+    "choice": {
+      "value": null
+    },
+    "choice_field": {
+      "value": null
+    },
+    "choice_table": {
+      "value": null
+    },
+    "default_value": {
+      "value": null
+    },
+    "defaultsort": {
+      "value": null
+    },
+    "dynamic_default_value": {
+      "value": null
+    },
+    "use_dynamic_default": {
+      "value": "false"
+    },
+    "display": {
+      "value": "false"
+    },
+    "read_only": {
+      "value": "false"
+    },
+    "unique": {
+      "value": "false"
+    },
+    "calculation": {
+      "value": null
+    },
+    "virtual_type": {
+      "value": null
+    },
+    "formula": {
+      "value": null
+    },
+    "function_definition": {
+      "value": null
+    },
+    "function_field": {
+      "value": "false"
+    },
+    "dependent": {
+      "value": null
+    },
+    "dependent_on_field": {
+      "value": null
+    },
+    "use_dependent_field": {
+      "value": "false"
+    },
+    "audit": {
+      "value": "false"
+    },
+    "no_audit_delete": {
+      "value": "false"
+    },
+    "create_roles": {
+      "value": null
+    },
+    "read_roles": {
+      "value": null
+    },
+    "write_roles": {
+      "value": null
+    },
+    "delete_roles": {
+      "value": null
+    },
+    "spell_check": {
+      "value": "false"
+    },
+    "widget": {
+      "value": null
+    },
+    "sizeclass": {
+      "value": null
+    },
+    "next_element": {
+      "value": null
+    },
+    "dynamic_creation": {
+      "value": "false"
+    },
+    "dynamic_creation_script": {
+      "value": null
+    },
+    "dynamic_ref_qual": {
+      "value": null
+    },
+    "element_reference": {
+      "value": "false"
+    },
+    "text_index": {
+      "value": "false"
+    },
+    "foreign_database": {
+      "value": null
+    },
+    "comments": {
+      "value": null
+    },
+    "primary": {
+      "value": "false"
+    },
+    "staged": {
+      "value": "false"
+    },
+    "table_reference": {
+      "value": "false"
+    },
+    "xml_view": {
+      "value": "false"
+    }
+  }
+}

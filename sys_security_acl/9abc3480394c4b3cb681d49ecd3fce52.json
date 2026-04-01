@@ -1,0 +1,97 @@
+{
+  "_table": "sys_security_acl",
+  "_sys_id": "9abc3480394c4b3cb681d49ecd3fce52",
+  "_sys_update_name": "sys_security_acl_9abc3480394c4b3cb681d49ecd3fce52",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.287Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.287Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_security_acl"
+    },
+    "sys_package": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "x_custom_bfbf_dhoom33"
+    },
+    "name": {
+      "value": "x_custom_bfbf_dhoom33"
+    },
+    "operation": {
+      "value": "read"
+    },
+    "type": {
+      "value": "record"
+    },
+    "admin_overrides": {
+      "value": "true"
+    },
+    "active": {
+      "value": "true"
+    },
+    "condition": {
+      "value": null
+    },
+    "applies_to": {
+      "value": null
+    },
+    "script": {
+      "value": null
+    },
+    "description": {
+      "value": null
+    },
+    "order_value": {
+      "value": "100"
+    },
+    "application": {
+      "value": null
+    },
+    "advanced": {
+      "value": "false"
+    },
+    "field_type": {
+      "value": null
+    },
+    "controlled_by_refs": {
+      "value": null
+    },
+    "local_or_existing": {
+      "value": null
+    },
+    "security_attribute": {
+      "value": null
+    },
+    "decision_type": {
+      "value": null
+    },
+    "debug": {
+      "value": "false"
+    }
+  }
+}

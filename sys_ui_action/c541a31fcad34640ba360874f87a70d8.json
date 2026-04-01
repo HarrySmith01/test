@@ -1,0 +1,172 @@
+{
+  "_table": "sys_ui_action",
+  "_sys_id": "c541a31fcad34640ba360874f87a70d8",
+  "_sys_update_name": "sys_ui_action_c541a31fcad34640ba360874f87a70d8",
+  "fields": {
+    "sys_created_on": {
+      "value": "2026-03-31T20:33:52.543Z"
+    },
+    "sys_created_by": {
+      "value": "admin"
+    },
+    "sys_updated_on": {
+      "value": "2026-03-31T20:33:52.543Z"
+    },
+    "sys_updated_by": {
+      "value": "admin"
+    },
+    "sys_mod_count": {
+      "value": "0"
+    },
+    "sys_class_name": {
+      "value": "sys_ui_action"
+    },
+    "sys_package": {
+      "value": null
+    },
+    "sys_scope": {
+      "value": "784f7ede76de42c0ae97b6e5a0795bee"
+    },
+    "sys_policy": {
+      "value": null
+    },
+    "sys_replace_on_upgrade": {
+      "value": "false"
+    },
+    "sys_customer_update": {
+      "value": "true"
+    },
+    "sys_name": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33_delete"
+    },
+    "name": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33_delete"
+    },
+    "action_name": {
+      "value": "Delete"
+    },
+    "table": {
+      "value": "x_x_custom_bfbf_x_custom_bfbf_dhoom33"
+    },
+    "hint": {
+      "value": "Delete this record"
+    },
+    "comments": {
+      "value": null
+    },
+    "order": {
+      "value": "400"
+    },
+    "active": {
+      "value": "true"
+    },
+    "form_action": {
+      "value": "false"
+    },
+    "list_action": {
+      "value": "false"
+    },
+    "form_button": {
+      "value": "true"
+    },
+    "form_context_menu": {
+      "value": "false"
+    },
+    "form_link": {
+      "value": "false"
+    },
+    "list_button": {
+      "value": "false"
+    },
+    "list_banner_button": {
+      "value": "false"
+    },
+    "list_context_menu": {
+      "value": "false"
+    },
+    "list_choice": {
+      "value": "false"
+    },
+    "list_link": {
+      "value": "false"
+    },
+    "list_save_with_form_button": {
+      "value": "false"
+    },
+    "format_for_configurable_workspace": {
+      "value": "false"
+    },
+    "workspace_form_button": {
+      "value": "false"
+    },
+    "workspace_form_menu_button": {
+      "value": "false"
+    },
+    "workspace_client_script": {
+      "value": null
+    },
+    "form_style": {
+      "value": "danger"
+    },
+    "list_style": {
+      "value": null
+    },
+    "condition": {
+      "value": null
+    },
+    "client": {
+      "value": "true"
+    },
+    "onclick": {
+      "value": "deleteRecord"
+    },
+    "script": {
+      "value": null
+    },
+    "messages": {
+      "value": null
+    },
+    "confirm_message": {
+      "value": "Are you sure you want to delete this record?"
+    },
+    "redirect_url": {
+      "value": null
+    },
+    "roles": {
+      "value": null
+    },
+    "isolate_script": {
+      "value": "false"
+    },
+    "show_insert": {
+      "value": "false"
+    },
+    "show_multiple_update": {
+      "value": "false"
+    },
+    "show_query": {
+      "value": "false"
+    },
+    "show_update": {
+      "value": "true"
+    },
+    "action_set": {
+      "value": null
+    },
+    "action_set_order": {
+      "value": null
+    },
+    "mobile_action": {
+      "value": "false"
+    },
+    "sys_overrides": {
+      "value": null
+    },
+    "sys_domain": {
+      "value": "global"
+    },
+    "sys_domain_path": {
+      "value": "/"
+    }
+  }
+}

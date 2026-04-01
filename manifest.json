@@ -1,0 +1,26 @@
+{
+  "scope": "x_custom_bfbf",
+  "name": "bfbf",
+  "version": "1.0.0",
+  "description": "",
+  "vendor": "admin",
+  "vendor_prefix": "x_custom",
+  "min_platform_version": "1.0.0",
+  "dependencies": [],
+  "schema_tables": [
+    "sys_db_object",
+    "sys_dictionary"
+  ],
+  "config_tables": [
+    "sys_number",
+    "sys_security_acl",
+    "sys_security_acl_role",
+    "sys_ui_action",
+    "sys_user_role"
+  ],
+  "record_count": 24,
+  "checksum": "9721135fc72e3f99a1499adc1ded22455925172e06d6aa92317566351e182cac",
+  "private": true,
+  "scoped_administration": false,
+  "created_on": "2026-04-01T08:27:03.227Z"
+}
