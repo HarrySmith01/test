@@ -1,7 +1,7 @@
 {
   "scope": "x_custom_bfbf",
   "name": "bfbf",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Hello I am short descriptio",
   "vendor": "admin",
   "vendor_prefix": "x_custom",
@@ -19,8 +19,8 @@
     "sys_user_role"
   ],
   "record_count": 24,
-  "checksum": "9721135fc72e3f99a1499adc1ded22455925172e06d6aa92317566351e182cac",
+  "checksum": "d2a2ed8c6460e2a365837e4a1bdac801eb8461d1b0a63f71804195e4542053f3",
   "private": true,
   "scoped_administration": false,
-  "created_on": "2026-03-31T20:35:52.543Z"
+  "created_on": "2026-04-01T17:05:46.925Z"
 }
